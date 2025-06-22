@@ -1,2 +1,16 @@
-# Quotes-Generator-
-This is a simple and clean web app that displays inspirational quotes and automatically updates them every 3 seconds. Built using HTML, CSS, and JavaScript, it cycles through a predefined list of quotes to keep the user engaged and motivated.
+# 🌟 Dynamic Quote Generator
+
+A simple web app that displays a motivational quote and allows the user to change the background color with the click of a button.
+
+![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.png)
+
+---
+
+## 🚀 Features
+
+- ✨ Displays an inspirational quote.
+- 🎨 Changes background color on button click.
+- 🎯 Uses dark shades of primary colors (Blue, Red, Yellow).
