@@ -12,5 +12,5 @@ A simple web app that displays a motivational quote and allows the user to chang
 ## 🚀 Features
 
 - ✨ Displays an inspirational quote.
-- 🎨 Changes background color on button click.
-- 🎯 Uses dark shades of primary colors (Blue, Red, Yellow).
+- 🎨 Changes background color with quote.
+- 🎯 Uses dark shades of primary colors (Blue, Red, Yellow and many more...).
